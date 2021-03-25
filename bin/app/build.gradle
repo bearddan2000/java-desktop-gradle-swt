@@ -1,0 +1,11 @@
+apply plugin: 'application'
+apply plugin: 'java'
+
+mainClassName = 'example.Main'
+
+// tell the jar which class to startup in.
+jar {
+    manifest {
+        attributes 'Main-Class': 'example.Main'
+    }
+}

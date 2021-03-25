@@ -1,0 +1,8 @@
+[2021-03-22 15:11:40 INFO]: install::setup-logging ended
+================
+[2021-03-22 15:11:40 INFO]: install::start-up started
+[2021-03-22 15:11:40 INFO]: install::start-up setting display permissions to localhost
+[2021-03-22 15:11:40 INFO]: install::start-up build image
+[2021-03-22 15:11:40 INFO]: install::start-up running image
+[2021-03-22 15:11:40 INFO]: install::start-up ended
+================
